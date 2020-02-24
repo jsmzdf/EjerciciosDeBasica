@@ -1,5 +1,5 @@
 # EjerciciosDeBasica
-ejercicios tomados de 
+* ejercicios tomados de 
 [Ejercios](https://github.com/apdaza/universidad-ejercicios/blob/master/python/solucion%20guia%20ejercicios/ejercios%20pbas.pdf)
 
           simples
@@ -55,14 +55,17 @@ o no.
 [respuesta](https://github.com/jsmzdf/EjerciciosDeBasica/blob/master/E71.py)
 * Escribir un programa que calcule la potencia de un numero usando recursividad.
 [respuesta](https://github.com/jsmzdf/EjerciciosDeBasica/blob/master/E72.py)
-       modulos
+        
+        modulos
 * Crear un módulo de funciones aritméticas que realicen las operaciones de suma, resta,
 multiplicación, división y potencia de enteros, escribir un programa que importe este
 módulo y use estas funciones para operar con números capturados desde el teclado.
 [respuesta](https://github.com/jsmzdf/EjerciciosDeBasica/blob/master/E81.py)
+[respuesta](https://github.com/jsmzdf/EjerciciosDeBasica/blob/master/modulo1.py)
 * Crear un módulo que maneje funciones para operar en sistema binario, las operaciones que
 se deben implementar son suma, resta, multiplicación y división.
 [respuesta](https://github.com/jsmzdf/EjerciciosDeBasica/blob/master/E82.py)
+[respuesta](https://github.com/jsmzdf/EjerciciosDeBasica/blob/master/modulo2.py)
 
        Archivo
 * Escribir un programa que escriba la lista de caracteres ASCII dentro de un archivo de texto. 
