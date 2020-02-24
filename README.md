@@ -45,14 +45,20 @@ o no.
 2)Escribir un programa que calcule la potencia de un numero usando recursividad.
 
      modulos
-1)suma, resta, divición potencia y multiplicación.
-2)operaciones básicas con binarios.
+1)Crear un módulo de funciones aritméticas que realicen las operaciones de suma, resta,
+multiplicación, división y potencia de enteros, escribir un programa que importe este
+módulo y use estas funciones para operar con números capturados desde el teclado.
+2). Crear un módulo que maneje funciones para operar en sistema binario, las operaciones que
+se deben implementar son suma, resta, multiplicación y división.
 
     Archivo
-1)Guardar codigo asscii
-2)mostra en pantalla el punto anterior.
+1) Escribir un programa que escriba la lista de caracteres ASCII dentro de un archivo de texto. 
+2)Escribir un programa que lea y muestre en pantalla el archivo generado en el ejercicio
+anterior.
 
      varios
-1)picas y fijas.
-2)contar tiempo hasta un punto deseado.
+1). Escribir un programa que lea un tiempo en horas, minutos y segundos y empiece a
+cronometrar el tiempo mostrándolo en pantalla hasta llegar al limite leído al inicio.
+2)Escribir un programa que le permita al usuario jugar contra el computador el juego de picas
+y fijas, se debe implementar el juego con 3, 4 o 5 dígitos.
        
