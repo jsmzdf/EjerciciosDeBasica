@@ -10,3 +10,4 @@ def num_o_no(v):
         else:
             es= 'no es numero'
     return es
+print('El caracter ingresado es: '+str(num_o_no(t)))
