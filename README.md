@@ -1,6 +1,7 @@
 # EjerciciosDeBasica
 ejercicios tomados de 
 https://github.com/apdaza/universidad-ejercicios/blob/master/python/solucion%20guia%20ejercicios/ejercios%20pbas.pdf
+
      simples
 1)Escribir un programa que calcule la longitud y el área de una circunferencia, capturando el
 valor del radio.
