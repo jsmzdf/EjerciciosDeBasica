@@ -74,8 +74,8 @@ anterior.
       varios
 *  Escribir un programa que lea un tiempo en horas, minutos y segundos y empiece a
 cronometrar el tiempo mostrándolo en pantalla hasta llegar al limite leído al inicio.
-[respuesta](https://github.com/jsmzdf/EjerciciosDeBasica/blob/master/PicasFijas.py)
+[respuesta](https://github.com/jsmzdf/EjerciciosDeBasica/blob/master/crono.py)
 * Escribir un programa que le permita al usuario jugar contra el computador el juego de picas
 y fijas, se debe implementar el juego con 3, 4 o 5 dígitos.
-[respuesta](https://github.com/jsmzdf/EjerciciosDeBasica/blob/master/crono.py)
+[respuesta](https://github.com/jsmzdf/EjerciciosDeBasica/blob/master/PicasFijas.py)
        
