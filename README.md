@@ -61,11 +61,11 @@ o no.
 multiplicación, división y potencia de enteros, escribir un programa que importe este
 módulo y use estas funciones para operar con números capturados desde el teclado.
 [respuesta](https://github.com/jsmzdf/EjerciciosDeBasica/blob/master/E81.py)
-[respuesta](https://github.com/jsmzdf/EjerciciosDeBasica/blob/master/modulo1.py)
+[modulo1](https://github.com/jsmzdf/EjerciciosDeBasica/blob/master/modulo1.py)
 * Crear un módulo que maneje funciones para operar en sistema binario, las operaciones que
 se deben implementar son suma, resta, multiplicación y división.
 [respuesta](https://github.com/jsmzdf/EjerciciosDeBasica/blob/master/E82.py)
-[respuesta](https://github.com/jsmzdf/EjerciciosDeBasica/blob/master/modulo2.py)
+[modulo2](https://github.com/jsmzdf/EjerciciosDeBasica/blob/master/modulo2.py)
 
        Archivo
 * Escribir un programa que escriba la lista de caracteres ASCII dentro de un archivo de texto. 
