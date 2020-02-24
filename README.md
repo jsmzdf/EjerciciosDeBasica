@@ -47,9 +47,11 @@ o no.
      modulos
 1)suma, resta, divición potencia y multiplicación.
 2)operaciones básicas con binarios.
-   Archivo
+
+    Archivo
 1)Guardar codigo asscii
 2)mostra en pantalla el punto anterior.
+
      varios
 1)picas y fijas.
 2)contar tiempo hasta un punto deseado.
