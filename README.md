@@ -6,7 +6,7 @@
 * Escribir un programa que calcule la longitud y el área de una circunferencia, capturando el
 valor del radio.<br>
 longitud de la circunferencia = 2 * PI * radio
-área de la circunferencia = PI * radio2
+área de la circunferencia = PI * radio2<br>
 [respuesta](https://github.com/jsmzdf/EjerciciosDeBasica/blob/master/E11.py)
 * Escribir un programa que calcule el volumen de una esfera de radio = r
 volumen de la esfera = 4/3 * PI * radio3
