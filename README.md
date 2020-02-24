@@ -70,7 +70,8 @@ se deben implementar son suma, resta, multiplicación y división.
 * Escribir un programa que lea y muestre en pantalla el archivo generado en el ejercicio
 anterior.
 [respuesta](https://github.com/jsmzdf/EjerciciosDeBasica/blob/master/E91_2.py)
-       varios
+      
+      varios
 *  Escribir un programa que lea un tiempo en horas, minutos y segundos y empiece a
 cronometrar el tiempo mostrándolo en pantalla hasta llegar al limite leído al inicio.
 [respuesta](https://github.com/jsmzdf/EjerciciosDeBasica/blob/master/PicasFijas.py)
