@@ -20,9 +20,10 @@ temperatura t, el usuario debe indicar si la temperatura que ingreso esta en cel
 fahrenheit acompañando el valor por el carácter c o t respectivamente.
 Celsius / 5 = (Fahrenheit – 32) 9.<br>
 [respuesta](https://github.com/jsmzdf/EjerciciosDeBasica/blob/master/E22.py)
+
          ciclos
 * Escribir un programa que visualice en pantalla los números múltiplos de 5 comprendidos
-entre 1 y 100.
+entre 1 y 100.<br>
 [respuesta](https://github.com/jsmzdf/EjerciciosDeBasica/blob/master/E31.py)<br>
 * Escribir un programa que calcule la suma de los números hasta un número dado
 (introducido por el usuario).<br>
