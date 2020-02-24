@@ -3,11 +3,11 @@ ejercicios tomados de
 [Ejercios](https://github.com/apdaza/universidad-ejercicios/blob/master/python/solucion%20guia%20ejercicios/ejercios%20pbas.pdf)
 
      simples
-*1)Escribir un programa que calcule la longitud y el área de una circunferencia, capturando el
+* 1)Escribir un programa que calcule la longitud y el área de una circunferencia, capturando el
 valor del radio.
 longitud de la circunferencia = 2 * PI * radio
 área de la circunferencia = PI * radio2
-*2)Escribir un programa que calcule el volumen de una esfera de radio = r
+* 2)Escribir un programa que calcule el volumen de una esfera de radio = r
 volumen de la esfera = 4/3 * PI * radio3
 
        Con condicionales
