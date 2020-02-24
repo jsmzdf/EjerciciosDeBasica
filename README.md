@@ -30,9 +30,9 @@ suma.
 situado en la posición 2,2.
 
     Cadena de caracteres
-*1)Escribir un programa que elimine los blancos de una cadena de caracteres. La cadena
+* Escribir un programa que elimine los blancos de una cadena de caracteres. La cadena
 original y la transformada deben almacenarse de forma independiente. 
-*2)Escribir un programa que lea una frase introducida desde el teclado y la escriba al revés. 
+* Escribir un programa que lea una frase introducida desde el teclado y la escriba al revés. 
 
       funciones y procedimientos
 * Escribir un programa que mediante funciones obtenga la distancia entre dos puntos que se
@@ -42,10 +42,9 @@ o no.
 
     recursividad 
 * Escribir un programa que mediante funciones recursivas calcule el termino “x” de la serie de
-
 * Escribir un programa que calcule la potencia de un numero usando recursividad.
 
-     modulos
+       modulos
 * Crear un módulo de funciones aritméticas que realicen las operaciones de suma, resta,
 multiplicación, división y potencia de enteros, escribir un programa que importe este
 módulo y use estas funciones para operar con números capturados desde el teclado.
