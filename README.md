@@ -39,7 +39,7 @@ situado en la posición 2,2.
        Cadena de caracteres
 * Escribir un programa que elimine los blancos de una cadena de caracteres. La cadena
 original y la transformada deben almacenarse de forma independiente. 
-[respuesta](https://github.com/jsmzdf/EjerciciosDeBasica/blob/master/E51.py)
+<br>[respuesta](https://github.com/jsmzdf/EjerciciosDeBasica/blob/master/E51.py)
 * Escribir un programa que lea una frase introducida desde el teclado y la escriba al revés. 
 [respuesta](https://github.com/jsmzdf/EjerciciosDeBasica/blob/master/E52.py)
 
