@@ -72,7 +72,7 @@ se deben implementar son suma, resta, multiplicación y división.<br>
        Archivo
 * Escribir un programa que escriba la lista de caracteres ASCII dentro de un archivo de texto. 
 [respuesta](https://github.com/jsmzdf/EjerciciosDeBasica/blob/master/E91_2.py)
-* Escribir un programa que lea y muestre en pantalla el archivo generado en el ejercicio
+* Escribir un  programa que lea y muestre en pantalla el archivo generado en el ejercicio
 anterior.
 [respuesta](https://github.com/jsmzdf/EjerciciosDeBasica/blob/master/E91_2.py)
       
